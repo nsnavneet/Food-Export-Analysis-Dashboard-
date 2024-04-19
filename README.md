@@ -34,4 +34,4 @@ The dashboard is designed to work with the following data:
 ## Additional Notes
 - This dashboard serves as a starting point for further analysis. Customize the charts, slicers, and pivot tables to suit specific needs.
 - Pivot tables allow users to drill down into the data for further exploration (e.g., clicking on a specific country in the pivot table might show a breakdown of rejection counts by product category).
-[Food Export Analysis Dashboard](https://example.com/food_export_analysis_dashboard.png)
+
